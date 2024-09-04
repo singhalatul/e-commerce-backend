@@ -121,5 +121,4 @@ dist
 src/constants.js
 
 src/db/db.js
-package.json
-package-lock.json
+

@@ -1,0 +1,35 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "all about e-commerce platform",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/singhalatul/e-commerce-backend.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "js"
+  ],
+  "author": "Atul Singhal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singhalatul/e-commerce-backend/issues"
+  },
+  "homepage": "https://github.com/singhalatul/e-commerce-backend#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
