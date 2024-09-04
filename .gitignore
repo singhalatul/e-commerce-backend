@@ -120,5 +120,5 @@ dist
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
 src/constants.js
 
-src/db/db.js
+
 
