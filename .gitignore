@@ -129,7 +129,7 @@ src/db/db.js
 src/middlewares/auth.middleware.js
 src/utils/ApiError.js
 src/controllers/user.controller.js
-src/models/user.model.js
+
 
 
 
