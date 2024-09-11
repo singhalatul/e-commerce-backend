@@ -132,7 +132,7 @@ src/controllers/user.controller.js
 src/models/user.model.js
 src/routes/user.routes.js
 src/utils/asyncHandler.js
-src/utils/sendEmail.js
+
 
 
 
