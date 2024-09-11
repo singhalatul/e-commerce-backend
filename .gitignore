@@ -130,8 +130,8 @@ src/middlewares/auth.middleware.js
 src/utils/ApiError.js
 src/controllers/user.controller.js
 src/models/user.model.js
-src/routes/user.routes.js
-src/utils/asyncHandler.js
+
+
 
 
 
